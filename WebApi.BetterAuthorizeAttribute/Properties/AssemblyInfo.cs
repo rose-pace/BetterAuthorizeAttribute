@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WebApi.BetterAuthorizeAttribute")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("An authrorize attribute that lets you use an array of roles or users rather than creating a comma-delimited string")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Ross Pace")]
 [assembly: AssemblyProduct("WebApi.BetterAuthorizeAttribute")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
